@@ -1,1 +1,2 @@
 toto A
+truc machine

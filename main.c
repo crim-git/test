@@ -4,4 +4,4 @@ troc michine
 n'importe quoi !
 encore
 
-le 14 mai a 17h
+test depuis la machine etudiant via nat 

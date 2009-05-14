@@ -4,4 +4,4 @@ troc michine
 n'importe quoi !
 encore
 
-test depuis la machine etudiant via nat 
+test depuis la machine etudiant via nat 2
